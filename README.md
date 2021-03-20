@@ -6,7 +6,6 @@ This is a Python project for Nepali stock price prediction using Artificial Inte
 
 
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Structure](#project-structure)
 * [Contact](#contact)
 
