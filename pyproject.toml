@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "Ironman_project"
+version = "0.1.0"
+description = ""
+authors = ["sobitregmi <regmi.sobit@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+isort = "^5.7.0"
+black = "^20.8b1"
+flake8 = "^3.9.0"
+mypy = "^0.812"
+coverage = "^5.5"
+pre-commit = "^2.11.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
